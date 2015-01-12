@@ -1,0 +1,1 @@
+working through this course - http://www.nand2tetris.org/
